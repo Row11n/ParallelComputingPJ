@@ -1,0 +1,111 @@
+Input the number of parallel threads: 4
+scale: 1000  runtime_parallel: 4.57827e-05  runtime_single: 4.77973e-05
+Speedup: 1.044
+scale: 5000  runtime_parallel: 0.000253503  runtime_single: 0.000256033
+Speedup: 1.00998
+scale: 10000  runtime_parallel: 0.000395205  runtime_single: 0.000449025
+Speedup: 1.13618
+scale: 100000  runtime_parallel: 0.00251402  runtime_single: 0.00336934
+Speedup: 1.34022
+scale: 1000000  runtime_parallel: 0.0276417  runtime_single: 0.0360539
+Speedup: 1.30433
+scale: 10000000  runtime_parallel: 0.255069  runtime_single: 0.404201
+Speedup: 1.58467
+
+Input the number of parallel threads: 8
+scale: 1000  runtime_parallel: 4.48747e-05  runtime_single: 4.58688e-05
+Speedup: 1.02215
+scale: 5000  runtime_parallel: 0.000258594  runtime_single: 0.000261319
+Speedup: 1.01054
+scale: 10000  runtime_parallel: 0.000451505  runtime_single: 0.000535227
+Speedup: 1.18543
+scale: 100000  runtime_parallel: 0.0026269  runtime_single: 0.00326971
+Speedup: 1.2447
+scale: 1000000  runtime_parallel: 0.0253886  runtime_single: 0.0349677
+Speedup: 1.3773
+scale: 10000000  runtime_parallel: 0.256166  runtime_single: 0.399094
+Speedup: 1.55795
+
+Input the number of parallel threads: 12
+scale: 1000  runtime_parallel: 4.3732e-05  runtime_single: 4.5865e-05
+Speedup: 1.04877
+scale: 5000  runtime_parallel: 0.000255506  runtime_single: 0.000256304
+Speedup: 1.00312
+scale: 10000  runtime_parallel: 0.000453752  runtime_single: 0.000536766
+Speedup: 1.18295
+scale: 100000  runtime_parallel: 0.00250453  runtime_single: 0.00339615
+Speedup: 1.35601
+scale: 1000000  runtime_parallel: 0.026128  runtime_single: 0.0356328
+Speedup: 1.36378
+scale: 10000000  runtime_parallel: 0.241223  runtime_single: 0.401707
+Speedup: 1.66529
+
+Input the number of parallel threads: 16
+scale: 1000  runtime_parallel: 4.51843e-05  runtime_single: 4.62631e-05
+Speedup: 1.02388
+scale: 5000  runtime_parallel: 0.000256865  runtime_single: 0.000257518
+Speedup: 1.00254
+scale: 10000  runtime_parallel: 0.000396478  runtime_single: 0.000454199
+Speedup: 1.14558
+scale: 100000  runtime_parallel: 0.0022464  runtime_single: 0.00310715
+Speedup: 1.38317
+scale: 1000000  runtime_parallel: 0.0273024  runtime_single: 0.0359535
+Speedup: 1.31686
+scale: 10000000  runtime_parallel: 0.231546  runtime_single: 0.409605
+Speedup: 1.769
+
+Input the number of parallel threads: 20
+scale: 1000  runtime_parallel: 4.44201e-05  runtime_single: 4.60491e-05
+Speedup: 1.03667
+scale: 5000  runtime_parallel: 0.000279962  runtime_single: 0.000281748
+Speedup: 1.00638
+scale: 10000  runtime_parallel: 0.000460508  runtime_single: 0.00046235
+Speedup: 1.004
+scale: 100000  runtime_parallel: 0.00260505  runtime_single: 0.00333358
+Speedup: 1.27966
+scale: 1000000  runtime_parallel: 0.0281993  runtime_single: 0.0384267
+Speedup: 1.36269
+scale: 10000000  runtime_parallel: 0.256044  runtime_single: 0.43233
+Speedup: 1.6885
+
+Input the number of parallel threads: 24
+scale: 1000  runtime_parallel: 4.43625e-05  runtime_single: 4.55682e-05
+Speedup: 1.02718
+scale: 5000  runtime_parallel: 0.000258897  runtime_single: 0.000261349
+Speedup: 1.00947
+scale: 10000  runtime_parallel: 0.000352857  runtime_single: 0.000467252
+Speedup: 1.3242
+scale: 100000  runtime_parallel: 0.00249344  runtime_single: 0.0032533
+Speedup: 1.30475
+scale: 1000000  runtime_parallel: 0.0291117  runtime_single: 0.0375958
+Speedup: 1.29143
+scale: 10000000  runtime_parallel: 0.248696  runtime_single: 0.417503
+Speedup: 1.67877
+
+Input the number of parallel threads: 28
+scale: 1000  runtime_parallel: 5.05089e-05  runtime_single: 5.12741e-05
+Speedup: 1.01515
+scale: 5000  runtime_parallel: 0.000240407  runtime_single: 0.000245809
+Speedup: 1.02247
+scale: 10000  runtime_parallel: 0.000350095  runtime_single: 0.00043313
+Speedup: 1.23718
+scale: 100000  runtime_parallel: 0.00258745  runtime_single: 0.00350431
+Speedup: 1.35435
+scale: 1000000  runtime_parallel: 0.0291478  runtime_single: 0.0402602
+Speedup: 1.38124
+scale: 10000000  runtime_parallel: 0.325892  runtime_single: 0.44584
+Speedup: 1.7806
+
+Input the number of parallel threads: 32
+scale: 1000  runtime_parallel: 4.32635e-05  runtime_single: 4.34035e-05
+Speedup: 1.00324
+scale: 5000  runtime_parallel: 0.000252443  runtime_single: 0.000253873
+Speedup: 1.00566
+scale: 10000  runtime_parallel: 0.000375595  runtime_single: 0.000452484
+Speedup: 1.20471
+scale: 100000  runtime_parallel: 0.0026091  runtime_single: 0.00352902
+Speedup: 1.35258
+scale: 1000000  runtime_parallel: 0.0259465  runtime_single: 0.0384779
+Speedup: 1.48297
+scale: 10000000  runtime_parallel: 0.278972  runtime_single: 0.447164
+Speedup: 1.8029
